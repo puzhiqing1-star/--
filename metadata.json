@@ -1,0 +1,6 @@
+{
+  "name": "Magic Phonics Kids - 自然拼读与音标启蒙",
+  "description": "专为0基础儿童设计的自然拼读与音标启蒙应用，包含牛津树/Oxford Phonics World 1-5级40课思维导图与细化复习、高保真原声发音、S-A-T-P-I-N分级闯关、音轨小车滑动拼读、CVC词族转盘、字母发音互动游戏、自适应个性化学习路径与智能错题宝库。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
